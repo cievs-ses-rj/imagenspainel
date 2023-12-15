@@ -136,38 +136,38 @@
 <p></p>
     <div class="image-container">
       <a href="https://cisshiny.saude.rj.gov.br/SER/">
-        <img src="https://portal.fgv.br/sites/portal.fgv.br/files/styles/noticia_geral/public/noticias/08/22/regulacao.jpg"
+        <img src="https://raw.githubusercontent.com/cievs-ses-rj/imagenspainel/main/Regula%C3%A7%C3%A3o2.jpeg"
           alt="Monitoramento da Central Estadual de Regulação">
         <div class="caption">Monitoramento da Central Estadual de Regulação</div>
       </a>
 
       <a href="https://cisshiny.saude.rj.gov.br/covid/">
-        <img src="https://www.cecom.unicamp.br/wp-content/uploads/2020/04/coronaV.jpg"
+        <img src="https://raw.githubusercontent.com/cievs-ses-rj/imagenspainel/main/Coroninha2.jpeg"
           alt="Indicadores Precoces da COVID-19">
         <div class="caption">Indicadores Precoces da COVID-19</div>
       </a>
 
 
       <a href="https://cisshiny.saude.rj.gov.br/diagrama_dengue/">
-        <img src="https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2023/10/Dengue-1-e1698693364716.jpg"
+        <img src="https://raw.githubusercontent.com/cievs-ses-rj/imagenspainel/main/Dengue2.jpeg"
           alt="Diagrama de Controle Dengue">
         <div class="caption">Diagrama de Controle Dengue</div>
         
         
         <a href="https://cisshiny.saude.rj.gov.br/now/">
         <img src="https://www.pontorh.com.br/y/2960/atraso-trabalho-e1473097348496.jpg"
-          alt="Nowcating - outros agravos">
-        <div class="caption">Nowcating - outros agravos</div>
+          alt="Nowcasting - outros agravos">
+        <div class="caption">Nowcasting - outros agravos</div>
         
         
            <a href="https://cisshiny.saude.rj.gov.br/cemaden/">
-        <img src="https://th.bing.com/th/id/OIP.ftqytxEUcOSIaddFr-pAWwHaFY?rs=1&pid=ImgDetMain"
+        <img src="https://raw.githubusercontent.com/cievs-ses-rj/imagenspainel/main/Desastre2.jpeg"
           alt="Desastres">
         <div class="caption">CEMADEN</div>
         
         
            <a href="https://cisshiny.saude.rj.gov.br/upa_sintomas/">
-        <img src="https://projeto-cdn.infra.grancursosonline.com.br/upa-rj-upa-marechal-hermes.png"
+        <img src="https://raw.githubusercontent.com/cievs-ses-rj/imagenspainel/main/upa2.jpeg"
           alt="UPA - sintomas">
         <div class="caption">UPA</div>
         
