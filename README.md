@@ -155,7 +155,7 @@
         
         
         <a href="https://cisshiny.saude.rj.gov.br/now/">
-        <img src="https://www.pontorh.com.br/y/2960/atraso-trabalho-e1473097348496.jpg"
+        <img src="https://raw.githubusercontent.com/cievs-ses-rj/imagenspainel/main/nowcasting.jpeg"
           alt="Nowcasting - outros agravos">
         <div class="caption">Nowcasting - outros agravos</div>
         
